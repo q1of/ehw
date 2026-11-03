@@ -1,0 +1,5 @@
+*.docx
+*.~lock*
+~*
+pravila.md
+*.exe
